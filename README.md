@@ -26,7 +26,7 @@ Step 1:Setup the project using the bower+grunt+yeoman for backbone js(you will n
 
 Step 2:Clone the project in your localmachine
 * go to the directory where you want to clone the project and use
-   * git clone {{repo link goes here}}
+   * git clone https://github.com/ParthPancholi/backbone_framework
 
 
 Step 3:Use the ~/Backbone/app/scripts/constants.js for defining all the constants
