@@ -1,4 +1,5 @@
-﻿BackBone JS + Require Js
+BackBone JS + Require Js
+==========================
 
 
 Prerequisites:
@@ -10,6 +11,7 @@ To make your own implementation for the server code i suggest you to make the re
 
 
 SETUP THE PROJECT
+==========================
 
 
 Step 1:Setup the project using the bower+grunt+yeoman for backbone js(you will need Node js and npm installed in your local machine)
